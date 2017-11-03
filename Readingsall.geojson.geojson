@@ -1,0 +1,498 @@
+﻿{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.580643,12.972442 ]
+    },
+    "properties": {
+    "CITY":"Banglore",
+    "YEAR":2002,
+    "Pre_monsoon NDVI":0.315,
+    "Post-Monsoon NDVI":0.425,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":31.601,
+    "Post-Monsoon LST":27.235,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.580643,12.972442 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2007,
+    "Pre_monsoon NDVI":0.214,
+    "Post-Monsoon NDVI":0.421,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":32.253,
+    "Post-Monsoon LST":25.841,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.580643,12.972442 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2012,
+    "Pre_monsoon NDVI":0.227,
+    "Post-Monsoon NDVI":0.348,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":33.098,
+    "Post-Monsoon LST":25.774,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.580643,12.972442 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2017,
+    "Pre_monsoon NDVI":0.284,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":34.295,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1025,28.7041 ]
+    },
+    "properties": {
+    "CITY":"Delhi",
+    "YEAR":2002,
+    "Pre_monsoon NDVI":0.298,
+    "Post-Monsoon NDVI":0.269,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":38.3,
+    "Post-Monsoon LST":31.8,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1025,28.7041 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2007,
+    "Pre_monsoon NDVI":0.276,
+    "Post-Monsoon NDVI":0.175,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":38.2,
+    "Post-Monsoon LST":29.8,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1025,28.7041 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2012,
+    "Pre_monsoon NDVI":0.25,
+    "Post-Monsoon NDVI":0.196,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":35.7,
+    "Post-Monsoon LST":27.4,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 77.1025,28.7041 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2017,
+    "Pre_monsoon NDVI":0.233,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":38.5,
+    "Post-Monsoon LST":31.12,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8777,19.076 ]
+    },
+    "properties": {
+    "CITY":"Mumbai",
+    "YEAR":2002,
+    "Pre_monsoon NDVI":0.295,
+    "Post-Monsoon NDVI":0.32,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":32.6,
+    "Post-Monsoon LST":32,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8777,19.076 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2007,
+    "Pre_monsoon NDVI":0.29,
+    "Post-Monsoon NDVI":0.306,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":33.2,
+    "Post-Monsoon LST":33.1,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8777,19.076 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2012,
+    "Pre_monsoon NDVI":0.281,
+    "Post-Monsoon NDVI":0.287,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":33.36,
+    "Post-Monsoon LST":34,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8777,19.076 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2017,
+    "Pre_monsoon NDVI":0.274,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":33.861,
+    "Post-Monsoon LST":33.7,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8567,18.5204 ]
+    },
+    "properties": {
+    "CITY":"Pune",
+    "YEAR":2002,
+    "Pre_monsoon NDVI":0.189,
+    "Post-Monsoon NDVI":0.346,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":36.92,
+    "Post-Monsoon LST":31.481,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8567,18.5204 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2007,
+    "Pre_monsoon NDVI":0.19,
+    "Post-Monsoon NDVI":0.195,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":35.157,
+    "Post-Monsoon LST":27.393,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8567,18.5204 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2012,
+    "Pre_monsoon NDVI":0.181,
+    "Post-Monsoon NDVI":0.236,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":35.302,
+    "Post-Monsoon LST":26.207,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 73.8567,18.5204 ]
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":2017,
+    "Pre_monsoon NDVI":0.225,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":38.326,
+    "Post-Monsoon LST":31.7,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":null,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "CITY":"",
+    "YEAR":null,
+    "Pre_monsoon NDVI":-0.088653412,
+    "Post-Monsoon NDVI":null,
+    "Avg NDVI":"",
+    "Pre_monsoon LST":null,
+    "Post-Monsoon LST":null,
+    "Avg LST":""
+    }
+  }
+]
+}
